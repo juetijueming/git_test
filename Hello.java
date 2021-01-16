@@ -15,9 +15,7 @@ public class Hello {
     public int getNum(){
         return num;
     }
-    public void setInt(int num){
-        this.num = num;
-    }
+
     @Override
     public String toString() {
         return "Hello{" +
